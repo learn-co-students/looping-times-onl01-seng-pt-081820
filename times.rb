@@ -3,15 +3,14 @@ def using_times
 	7.times do
 	  puts "Wingardium Leviosa"
 	 end
-end
 
 
-to define the helper_method
+to define the method
 
 def 
   
   7.times do
-    puts "Hi"
+    puts "Hiiii"
   end
   
 end 
